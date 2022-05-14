@@ -1,0 +1,24 @@
+{
+  "name": "kaitpolkinghornemainwebsite",
+  "version": "1.0.0",
+  "description": "V 1.0.0 is for prototyping and development for future development.",
+  "main": "kaits_website.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TPolkinghorne/Kait_Polkinghorne_Main_Site.git"
+  },
+  "keywords": [
+    "[design",
+    "kait",
+    "prototype]"
+  ],
+  "author": "Tom Polkinghorne",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/TPolkinghorne/Kait_Polkinghorne_Main_Site/issues"
+  },
+  "homepage": "https://github.com/TPolkinghorne/Kait_Polkinghorne_Main_Site#readme"
+}
